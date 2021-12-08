@@ -1,0 +1,571 @@
+2021-12-08@12:52:09 - DEBUG - >>>>>>>>>>>>>>> starting log_clean 
+2021-12-08@12:52:09 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting __SETTINGS__ 
+2021-12-08@12:52:09 - DEBUG - >>>>>>>>>>>>>>> starting json_load 
+2021-12-08@12:52:09 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting main 
+2021-12-08@12:52:09 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting test 
+2021-12-08@12:52:09 - DEBUG - >>>>>>>>>>>>>>> starting bs_read 
+2021-12-08@12:52:09 - DEBUG - >>>>>>>>>>>>>>> starting bs_save 
+2021-12-08@12:52:09 - DEBUG - >>>>>>>>>>>>>>> starting bs_read 
+2021-12-08@12:52:09 - DEBUG - >>>>>>>>>>>>>>> starting bs_save 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting cos_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting cos_lst 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Iron Plans (YC S20)', 'description': 'Subscriptions, usage-based billing, & teams for SaaS apps', 'employees': '1-10', 'role': 'Founding Full Stack Engineer', 'salary': '$105k – $150k', 'equity': '0.5% – 2.0%', 'time': '2021-12-08 12:52:10.102920', 'id': 'Iron Plans (YC S20)---Founding Full Stack Engineer', 'contact': 'David', 'message': "Hey David, I hope you're having an excellent week. \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer with 6 years of experience. I saw you had an openning for 'Founding Full Stack Engineer'. I'd love to learn more about what the role entails and see if I'd be a good fit to help you guys out.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 1/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Flow Club', 'description': 'Virtual WeWork for Deep Work', 'employees': '1-10', 'role': 'Contract Front End Engineer', 'salary': '$120k – $200k', 'equity': '0.0% – 2.0%', 'time': '2021-12-08 12:52:10.130387', 'id': 'Flow Club---Contract Front End Engineer', 'contact': 'David', 'message': "Hello David, I hope you're having a great day. \n\nMy name is Julian Wagle. I saw you had an openning for 'Contract Front End Engineer'. I'd love to learn more about what the role entails and see if I'd be a good fit to help you guys out.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 2/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Flow Club', 'description': 'Virtual WeWork for Deep Work', 'employees': '1-10', 'role': 'Contract Full Stack Engineer', 'salary': '$120k – $200k', 'equity': '0.0% – 2.0%', 'time': '2021-12-08 12:52:10.143044', 'id': 'Flow Club---Contract Full Stack Engineer', 'contact': 'David', 'message': "Hello David, I hope you're having a great day. \n\nMy name is Julian Wagle. I'm reaching out in response to the opening you posted for 'Contract Full Stack Engineer' - It looks like I'd be a great fit! Plus, it seems like you guys have a pretty cool mission and I'd love to be a part of it.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 3/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Flow Club', 'description': 'Virtual WeWork for Deep Work', 'employees': '1-10', 'role': 'Founding Front End Engineer', 'salary': '$120k – $200k', 'equity': '0.25% – 2.0%', 'time': '2021-12-08 12:52:10.154956', 'id': 'Flow Club---Founding Front End Engineer', 'contact': 'David', 'message': "Hello David, I hope this message finds you well. \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer based out of Wichita, KS with 6 years of experience. I'm reaching out in response to the opening you posted for 'Founding Front End Engineer' - It looks like I'd be a great fit! Plus, it seems like you guys have a pretty cool mission and I'd love to be a part of it.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 4/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Personabo', 'description': 'VR simulations for soft skills, powered by AI', 'employees': '1-10', 'role': 'Lead Full-Stack Engineer', 'salary': '$130k – $150k', 'equity': '1.0% – 2.0%', 'time': '2021-12-08 12:52:10.179079', 'id': 'Personabo---Lead Full-Stack Engineer', 'contact': 'David', 'message': "Hello David, \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer based out of Wichita, KS with 6 years of experience. I saw you had an openning for 'Lead Full-Stack Engineer'. I'd love to learn more about what the role entails and see if I'd be a good fit to help you guys out.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 5/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Refinery', 'description': 'A people first agency', 'employees': '11-50', 'role': 'Full Stack Engineer, Shopify', 'salary': '$96k – $120k', 'equity': '0.0% – 5.0%', 'time': '2021-12-08 12:52:10.200301', 'id': 'Refinery---Full Stack Engineer, Shopify', 'contact': 'David', 'message': "Hello David, I hope you're having an excellent week. \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer based out of Wichita, KS with 6 years of experience. I saw you had an openning for 'Full Stack Engineer, Shopify'. I'd love to learn more about what the role entails and see if I'd be a good fit to help you guys out.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 6/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Userfront', 'description': 'Auth without complexity', 'employees': '1-10', 'role': 'Senior software engineer', 'salary': '$100k – $180k', 'equity': '0.5% – 3.0%', 'time': '2021-12-08 12:52:10.227276', 'id': 'Userfront---Senior software engineer', 'contact': 'David', 'message': "Hey David, I hope you're having an excellent day. \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer with 6 years of experience. I'm reaching out in response to the opening you posted for 'Senior software engineer' - It looks like I'd be a great fit! Plus, it seems like you guys have a pretty cool mission and I'd love to be a part of it.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 7/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Proof of Impact', 'description': 'Technology company that enables the tracking, measurement, and evaluation of impact investments', 'employees': '11-50', 'role': 'Software Engineer', 'salary': '$80k – $130k', 'equity': '1.0% – 5.0%', 'time': '2021-12-08 12:52:10.247797', 'id': 'Proof of Impact---Software Engineer', 'contact': 'David', 'message': "Hey David, I hope you're having an excellent day. \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer based out of Wichita, KS with 6 years of experience. I saw you had an openning for 'Software Engineer'. I'd love to learn more about what the role entails and see if I'd be a good fit to help you guys out.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 8/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Ravacan', 'description': 'The future of supplier management', 'employees': '1-10', 'role': 'Senior Software Engineer (Python) - Early Stage Startup - Full Remote US / Western Europe -', 'salary': '$80k – $160k', 'equity': '0.5% – 2.5%', 'time': '2021-12-08 12:52:10.270155', 'id': 'Ravacan---Senior Software Engineer (Python) - Early Stage Startup - Full Remote US / Western Europe -', 'contact': 'David', 'message': "Hey David, I hope you're having an excellent week. \n\nMy name is Julian Wagle. I'm reaching out in response to the opening you posted for 'Senior Software Engineer (Python) - Early Stage Startup - Full Remote US / Western Europe -' - It looks like I'd be a great fit! Plus, it seems like you guys have a pretty cool mission and I'd love to be a part of it.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 9/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Showcase', 'description': 'Reimagining the delivery and consumption of business video', 'employees': '1-10', 'role': 'Founding Fullstack Software Engineer', 'salary': '$80k – $130k', 'equity': '0.5% – 2.0%', 'time': '2021-12-08 12:52:10.289338', 'id': 'Showcase---Founding Fullstack Software Engineer', 'contact': 'David', 'message': "Hello David, \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer with 6 years of experience. I saw you had an openning for 'Founding Fullstack Software Engineer'. I'd love to learn more about what the role entails and see if I'd be a good fit to help you guys out.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 10/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Within Health', 'description': 'Intelligent care coordination for healthcare', 'employees': '1-10', 'role': 'Director of Software Engineering', 'salary': '$175k – $250k', 'equity': '0.5% – 2.0%', 'time': '2021-12-08 12:52:10.309136', 'id': 'Within Health---Director of Software Engineering', 'contact': 'David', 'message': "Hello David, I hope this message finds you well. \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer based out of Wichita, KS with 6 years of experience. I saw you had an openning for 'Director of Software Engineering'. I'd love to learn more about what the role entails and see if I'd be a good fit to help you guys out.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 11/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Covalent', 'description': 'We help remote/hybrid organizations build culture through curated, personalized connections', 'employees': '1-10', 'role': 'Founding Engineer', 'salary': '$100k – $150k', 'equity': '1.0% – 3.0%', 'time': '2021-12-08 12:52:10.328542', 'id': 'Covalent---Founding Engineer', 'contact': 'David', 'message': "Hello David, I hope you're having an excellent day. \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer based out of Wichita, KS with 6 years of experience. I saw you had an openning for 'Founding Engineer'. I'd love to learn more about what the role entails and see if I'd be a good fit to help you guys out.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 12/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting cos_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting cos_lst 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting promotion 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Iron Plans (YC S20)', 'description': 'Subscriptions, usage-based billing, & teams for SaaS apps', 'employees': '1-10', 'role': 'Founding Full Stack Engineer', 'salary': '$105k – $150k', 'equity': '0.5% – 2.0%', 'time': '2021-12-08 12:52:10.376356', 'id': 'Iron Plans (YC S20)---Founding Full Stack Engineer', 'contact': 'David', 'message': "Hey David, I hope this message finds you well. \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer based out of Wichita, KS with 6 years of experience. I'm reaching out in response to the opening you posted for 'Founding Full Stack Engineer' - It looks like I'd be a great fit! Plus, it seems like you guys have a pretty cool mission and I'd love to be a part of it.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 13/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting description 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting employees 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting co_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting jobs_get_class 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting bs_children 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_get_spans 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting job_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting role 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting payment 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting identify 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting apply_dct 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting contact 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting str_clean 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting message 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting greeting 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting warmer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting intro 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting body 
+2021-12-08@12:52:10 - WARNING - TODO: add more bodies
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting closer 
+2021-12-08@12:52:10 - WARNING - TODO: add more closers
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting footer 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting update 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_applied 
+2021-12-08@12:52:10 - DEBUG - updated application data: {'employer': 'Flow Club', 'description': 'Virtual WeWork for Deep Work', 'employees': '1-10', 'role': 'Contract Front End Engineer', 'salary': '$120k – $200k', 'equity': '0.0% – 2.0%', 'time': '2021-12-08 12:52:10.402069', 'id': 'Flow Club---Contract Front End Engineer', 'contact': 'David', 'message': "Hello David, I hope you're having a great week. \n\nMy name is Julian Wagle. I'm a Sr. Software Engineer based out of Wichita, KS with 6 years of experience. I'm reaching out in response to the opening you posted for 'Contract Front End Engineer' - It looks like I'd be a great fit! Plus, it seems like you guys have a pretty cool mission and I'd love to be a part of it.\n\nIf interested in learning more or reaching out, I've attatched a few helpful links and my contact information below. \n\nThank you for your time,\n\n- Julian Wagle\n\nEmail address - julian.wagle.leal@gmail.com\nPhone number - +1(707)346-1659\n\nPortfolio - https://julianwagle.com\nGitHub - https://github.com/julianwagle\nLinkedIn - https://www.linkedin.com/in/julian-wagle/"}
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_datafile 
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting json_dump 
+2021-12-08@12:52:10 - DEBUG - updated /Users/home/@DEV/angel/data/applied-test.json
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>> starting update_numer 
+2021-12-08@12:52:10 - WARNING - updated numer: 14/14
+2021-12-08@12:52:10 - DEBUG - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> starting end 

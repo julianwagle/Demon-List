@@ -1,7 +1,5 @@
 __pycache__
 *.vscode
-*.log
-data/*
 *.env
 botproxy.zip
 pu.sh
